@@ -1,5 +1,13 @@
 # cybersecurity-portfolio
 My journey into cybersecurity: labs, notes, and tools
+# 👋 About Me
+
+Hi, I'm Iris Santos — a passionate and motivated cybersecurity student based in the United States. I'm currently completing the Google Cybersecurity Certificate while actively building hands-on experience with Linux, network fundamentals, and security tools.
+
+My goal is to become a remote Security Analyst and grow into more advanced roles in cloud and defensive security. I thrive on solving problems, protecting systems, and continuously learning how the digital world works — and how to defend it.
+
+Right now, I'm building this portfolio to document my learning journey and showcase my growing skills through labs, writeups, and practical exercises. Thanks for stopping by!
+
 ## 🧪 Day 1: Networking Fundamentals Lab
 
 **Date:** 2025-08-04  
